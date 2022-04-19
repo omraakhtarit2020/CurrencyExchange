@@ -13,7 +13,7 @@ const Nav = () => {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav ms-auto">
         <li className="nav-item">
-          <a className="nav-link" href="#">Source Code</a>
+          <a className="nav-link" href="https://github.com/omraakhtarit2020/CurrencyExchange">Source Code</a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="https://omraakhtarit2020.github.io/portfolioOmra/" target="_blank">Developer</a>
